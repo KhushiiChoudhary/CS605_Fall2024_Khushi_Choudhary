@@ -16,3 +16,14 @@ Tree Operations
 - Search: Looks for a contact in the tree by name and returns their phone number.
 - Delete: Deletes a contact from the tree by name, adjusting the tree structure accordingly.
 - In-Order Traversal: Prints the tree in sorted order of names.
+
+File Structure
+- bst_contact_manager.py: Main script containing the binary search tree implementation.
+- README.md: Instructions on using the project.
+- test_document.md: Describes test cases and their outputs.
+
+Testing
+To run the test cases and observe the tree behavior, refer to the test document provided.
+
+Author
+Khushi Choudhary - Master’s Student, Data Science and Analytics
