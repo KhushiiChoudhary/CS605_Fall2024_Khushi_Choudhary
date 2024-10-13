@@ -1,4 +1,5 @@
 Binary Search Tree for Contact Management
+
 This project implements a Binary Search Tree (BST) for managing a list of contacts where each contact consists of a name and a phone number. You can insert, search, and delete contacts using their names as the key. The tree is printed in sorted order using in-order traversal after every operation.
 
 Features
